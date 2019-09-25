@@ -8,9 +8,10 @@ and HEAD requests in a fairly straightforward manner.
 """
  
  
-__version__ = "0.1"
+__version__ = "0.2"
 __all__ = ["SimpleHTTPRequestHandler"]
 __author__ = "bones7456"
+__author2__ = "sky"
 __home_page__ = "http://luy.li/"
 
 import sys
